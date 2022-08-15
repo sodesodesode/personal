@@ -69,7 +69,8 @@ main h2 {
   font-weight: normal;
   font-size: 20px;
   padding-left: 16px;
-  border-left: 8px solid green;
+  border-left: 8px solid blue;
+  background-color: aliceblue;
 }
 
 main p {
